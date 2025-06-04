@@ -4,3 +4,6 @@ Implemented based on Andrej Karpathy's "Let's Build GPT" video (https://www.yout
 follows the "Attention is All You Need" paper (https://arxiv.org/pdf/1706.03762).
 
 Modifications were made for clarity and reproducibility without dedicated GPU processing
+
+
+Adding something here
